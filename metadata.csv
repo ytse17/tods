@@ -1,0 +1,76 @@
+station,station_name,line,year
+NCDB data/103rd Street Station.csv,103rd Street Station,Metro Blue Line (801),1990
+NCDB data/1st Street Station.csv,1st Street Station,Metro Blue Line (801),1990
+NCDB data/5th Street Station.csv,5th Street Station,Metro Blue Line (801),1990
+NCDB data/St_Metro Center Station.csv,7th St Metro Center Station,Metro Blue Line (801),1991
+NCDB data/Allen Station.csv,Allen Station,Metro Gold Line  (804),2003
+NCDB data/Anaheim Station.csv,Anaheim Station,Metro Blue Line (801),1990
+NCDB data/Artesia Station.csv,Artesia Station,Metro Blue Line (801),1990
+NCDB data/Atlantic Station.csv,Atlantic Station,Metro Gold Line  (804),2009
+NCDB data/Avalon Station.csv,Avalon Station,Metro Green Line  (803),1995
+NCDB data/Balboa Station.csv,Balboa Station,Metro Orange Line  (901),2005
+NCDB data/Canoga Station.csv,Canoga Station,Metro Orange Line  (901),2005
+NCDB data/Chinatown Station.csv,Chinatown Station,Metro Gold Line  (804),2003
+NCDB data/Civic Center Station.csv,Civic Center Station,"Metro Red Line  (802), Metro Purple Line  (805)",1993
+NCDB data/Compton Station.csv,Compton Station,Metro Blue Line (801),1990
+NCDB data/Crenshaw Station.csv,Crenshaw Station,Metro Green Line  (803),1995
+NCDB data/De Soto Station.csv,De Soto Station,Metro Orange Line  (901),2005
+NCDB data/Del Mar Station.csv,Del Mar Station,Metro Gold Line  (804),2009
+NCDB data/East LA Civic Station.csv,East LA Civic Station,Metro Gold Line  (804),2009
+NCDB data/El Segundo Station.csv,El Segundo Station,Metro Green Line  (803),1995
+NCDB data/Firestone Station.csv,Firestone Station,Metro Blue Line (801),1990
+NCDB data/Florence Station.csv,Florence Station,Metro Blue Line (801),1990
+NCDB data/Grand Station.csv,Grand Station,Metro Blue Line (801),1990
+NCDB data/Harbor Freeway Station.csv,Harbor Freeway Station,Metro Green Line  (803),1995
+NCDB data/Hawthorne Station.csv,Hawthorne Station,Metro Green Line  (803),1995
+NCDB data/Heritage Square Station.csv,Heritage Square Station,Metro Gold Line  (804),2003
+NCDB data/Highland Park Station.csv,Highland Park Station,Metro Gold Line  (804),2003
+NCDB data/Hollywood_Highland Station.csv,Hollywood_Highland Station,Metro Red Line  (802),1993
+NCDB data/Hollywood_Vine Station.csv,Hollywood_Vine Station,Metro Red Line  (802),1993
+NCDB data/Hollywood_Western Station.csv,Hollywood_Western Station,Metro Red Line  (802),1993
+NCDB data/Imperial_Wilmington Station.csv,Imperial_Wilmington Station,Metro Blue Line (801),1990
+NCDB data/Indiana Station.csv,Indiana Station,Metro Gold Line  (804),2009
+NCDB data/Lake Station.csv,Lake Station,Metro Gold Line  (804),2003
+NCDB data/Lakewood Station.csv,Lakewood Station,Metro Green Line  (803),1995
+NCDB data/Laurel Canyon Station.csv,Laurel Canyon Station,Metro Orange Line  (901),2005
+NCDB data/Lincoln Heights Station.csv,Lincoln Heights Station,Metro Gold Line  (804),2003
+NCDB data/Little Tokyo Station.csv,Little Tokyo Station,Metro Gold Line  (804),2009
+NCDB data/Long Beach Station.csv,Long Beach Station,Metro Green Line  (803),1995
+NCDB data/Long Beach Transit Mall Station.csv,Long Beach Transit Mall Station,Metro Blue Line (801),1990
+NCDB data/Maravilla Station.csv,Maravilla Station,Metro Gold Line  (804),2009
+NCDB data/Mariachi Station.csv,Mariachi Station,Metro Gold Line  (804),2009
+NCDB data/Mariposa Station.csv,Mariposa Station,Metro Green Line  (803),1995
+NCDB data/Memorial Park Station.csv,Memorial Park Station,Metro Gold Line  (804),2003
+NCDB data/North Hollywood Station.csv,North Hollywood Station,Metro Red Line  (802),1990
+NCDB data/Norwalk Station.csv,Norwalk Station,Metro Green Line  (803),1995
+NCDB data/Pacific Station.csv,Pacific Station,Metro Blue Line (801),1990
+NCDB data/PCH Station.csv,PCH Station,Metro Blue Line (801),1990
+NCDB data/Pershing Square Station.csv,Pershing Square Station,"Metro Purple Line  (805), Metro Red Line  (802)",1993
+NCDB data/Pico Station.csv,Pico Station,Metro Blue Line (801),1990
+NCDB data/Pico_Aliso Station.csv,Pico_Aliso Station,Metro Gold Line  (804),2009
+NCDB data/Reseda Station.csv,Reseda Station,Metro Orange Line  (901),2005
+NCDB data/San Pedro Station.csv,San Pedro Station,Metro Blue Line (801),1990
+NCDB data/Sepulveda Station.csv,Sepulveda Station,Metro Orange Line  (901),2005
+NCDB data/Slauson Station.csv,Slauson Station,Metro Blue Line (801),1990
+NCDB data/Soto Station.csv,Soto Station,Metro Gold Line  (804),2009
+NCDB data/Southwest Museum Station.csv,Southwest Museum Station,Metro Gold Line  (804),2003
+NCDB data/Tampa Station.csv,Tampa Station,Metro Orange Line  (901),2005
+NCDB data/Union Station.csv,Union Station,"Metro Red Line  (802), Metro Purple Line  (805)",1993
+NCDB data/Universal City Station.csv,Universal City Station,Metro Red Line  (802),1993
+NCDB data/Valley College Station.csv,Valley College Station,Metro Orange Line  (901),2005
+NCDB data/Van Nuys Station.csv,Van Nuys Station,Metro Orange Line  (901),2005
+NCDB data/Vermont Station.csv,Vermont Station,Metro Orange Line  (901),2005
+NCDB data/Vermont_Beverly Station.csv,Vermont_Beverly Station,Metro Red Line  (802),1993
+NCDB data/Vermont_Santa Monica Station.csv,Vermont_Santa Monica Station,Metro Red Line  (802),1993
+NCDB data/Vermont_Sunset Station.csv,Vermont_Sunset Station,Metro Red Line  (802),1993
+NCDB data/Vernon Station.csv,Vernon Station,Metro Blue Line (801),1990
+NCDB data/Wardlow Station.csv,Wardlow Station,Metro Blue Line (801),1990
+NCDB data/Warner Center Station.csv,Warner Center Station,Metro Blue Line (801),1990
+NCDB data/Washington Station.csv,Washington Station,Metro Blue Line (801),1990
+NCDB data/Westlake_McArthur Station.csv,Westlake_McArthur Station,"Metro Purple Line  (805), Metro Red Line  (802)",1993
+NCDB data/Willow Station.csv,Willow Station,Metro Blue Line (801),1990
+NCDB data/Wilshire_Normandie Station.csv,Wilshire_Normandie Station,Metro Purple Line  (805),1996
+NCDB data/Wilshire_Vermont Station.csv,Wilshire_Vermont Station,Metro Purple Line  (805),1996
+NCDB data/Wilshire_Western Station.csv,Wilshire_Western Station,Metro Purple Line  (805),1996
+NCDB data/Woodley Station.csv,Woodley Station,Metro Orange Line  (901),2005
+NCDB data/Woodman Station.csv,Woodman Station,Metro Orange Line  (901),2005
